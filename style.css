@@ -6,14 +6,15 @@
 }
 
 body {
-   
-    width: 300px;
     min-height: 100vh;
+    width: 300px;
+    height: 100vh;
     background-image: url('./img/img1.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     color: #fff; 
+    display: flex; 
 }
 
 .container{
@@ -155,5 +156,9 @@ body {
 @media (max-width: 480px) {
     .container {
         width: calc(90% - 50px);   
+    }
+
+    .container button {
+        font-size: 16px;
     }
 }
