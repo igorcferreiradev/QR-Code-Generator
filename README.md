@@ -1,4 +1,4 @@
-# QR-Code-Generator
+# <h1 align="center"> QR-Code-Generator
 
 An easy-to-use **QR Code generator** that allows users to easily generate QR codes from any text or URL.  
 With its straightforward design and user-friendly features, this application is ideal for making QR codes that can be simply shared with others.
