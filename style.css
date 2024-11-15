@@ -154,12 +154,15 @@ body {
 
 @media (max-width: 480px) {
     body {
-        padding: 30px;
-        
+        padding: 10px;
     }
 
     .container {
-        max-width: 100%;
+        width: calc(100% - 50px);   
         padding: 35px;
+    }
+
+    .container input {
+        font-size: 16px; 
     }
 }
