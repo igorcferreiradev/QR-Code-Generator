@@ -6,7 +6,7 @@
 }
 
 body {
-    min-height: 90dvh;
+    min-height: 90vh;
     width: 300px;
     height: 100vh;
     background-image: url('./img/img1.jpeg');
