@@ -13,10 +13,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     color: #fff; 
-    overflow: hidden;
-
 }
 
 .container{
@@ -35,7 +32,7 @@ body {
 
 .container p {
     font-weight: 600;
-    font-size: 15px;
+    font-size: 16px;
     margin-bottom: 8px;
 }
 
@@ -46,7 +43,8 @@ body {
     outline: 0;
     padding: 10px;
     margin: 10px 0 20px;
-    border-radius: 5px;   
+    border-radius: 5px; 
+    font-size: 16px;  
     background: transparent; 
     backdrop-filter: blur(10px); 
     color: #fff; 
@@ -80,6 +78,8 @@ body {
     cursor: pointer;
     margin: 20px 0;
     font-weight: 500;
+    font-size: 16px;
+
 }
 
 .container button:hover {
@@ -158,11 +158,6 @@ body {
     }
 
     .container {
-        width: calc(100% - 50px);   
-        padding: 20px;
-    }
-
-    .container input {
-        font-size: 16px; 
+        width: calc(90% - 50px);   
     }
 }
