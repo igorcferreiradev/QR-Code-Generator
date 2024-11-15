@@ -14,8 +14,6 @@ body {
     background-repeat: no-repeat;
     color: #fff; 
     display: flex;
-    padding: 10px; 
-    overflow: hidden;
 }
 
 .container{
@@ -159,6 +157,8 @@ body {
         padding: 10px;
         padding-bottom: 0;
         height: 50vh;
+        padding: 10px; 
+    overflow: hidden;
     }
 
     .container {
