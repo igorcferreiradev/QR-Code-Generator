@@ -159,7 +159,7 @@ body {
 
     .container {
         width: calc(100% - 50px);   
-        padding: 35px;
+        padding: 20px;
     }
 
     .container input {
