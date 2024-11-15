@@ -153,10 +153,6 @@ body {
 }
 
 @media (max-width: 480px) {
-    body {
-        padding: 10px;
-    }
-
     .container {
         width: calc(90% - 50px);   
     }
