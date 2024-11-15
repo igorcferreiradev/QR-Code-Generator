@@ -158,7 +158,8 @@ body {
 
 
     .container {
-        width: calc(90% - 40px); 
+        width: calc(90% - 40px);
+        padding: 15px;
     }
 
     .container button {
