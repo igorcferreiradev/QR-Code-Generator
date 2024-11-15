@@ -157,12 +157,10 @@ body {
     body {
         padding: 10px;
         padding-bottom: 0;
-        height: 100vh;
     }
 
     .container {
         width: calc(90% - 40px); 
-        max-width: 100%; 
     }
 
     .container button {
@@ -171,4 +169,8 @@ body {
 
     
 }
+
+
+    
+
 
