@@ -14,6 +14,8 @@ body {
     background-repeat: no-repeat;
     color: #fff; 
     display: flex;
+    padding: 10px; 
+    overflow: hidden;
 }
 
 .container{
@@ -153,7 +155,8 @@ body {
 }
 
 @media (max-width: 480px) {
-    
+
+
     .container {
         width: calc(90% - 40px); 
     }
