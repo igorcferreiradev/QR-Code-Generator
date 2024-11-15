@@ -162,7 +162,7 @@ body {
 
     .container {
         width: calc(90% - 40px); 
-        max-width: 90%; 
+        max-width: 100%; 
     }
 
     .container button {
