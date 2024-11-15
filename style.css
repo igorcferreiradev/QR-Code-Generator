@@ -155,7 +155,6 @@ body {
 
 @media (max-width: 480px) {
     body {
-        padding-bottom: 0;
         height: 100vh;
     }
 
