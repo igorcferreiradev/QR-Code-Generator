@@ -14,6 +14,8 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     color: #fff; 
+    overflow: hidden;
+
 }
 
 .container{
