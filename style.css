@@ -159,6 +159,8 @@ body {
         padding: 10px;
         padding-bottom: 0;
         height: 100vh;
+         display:flex;
+
     }
 
     .container {
