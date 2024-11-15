@@ -47,3 +47,8 @@ qrText.addEventListener("keypress", function(event) {
         generateQR(); // Trigger the QR code generation
     }
 });
+
+// Clear input field on page refresh
+document.addEventListener("DOMContentLoaded", () => {
+    qrText.value = ''; // Limpa o campo de entrada ao carregar a página
+});
